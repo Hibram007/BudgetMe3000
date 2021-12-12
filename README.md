@@ -1,5 +1,5 @@
-# Budget Tracker 
-Web app that was converted to a PWA that allows users to sdd expenses/deposits to an existing budget without an internet connection. Offline additions to the budget will be updated when internet is available. 
+# Budget Tracker 3000
+The following is Web app that was converted to a PWA that allows users to sdd expenses/deposits to an existing budget without an internet connection. Offline additions to the budget will be updated when internet is available. 
 
 ## Tech used
 - Indexed DB
